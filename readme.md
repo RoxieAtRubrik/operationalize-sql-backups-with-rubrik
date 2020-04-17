@@ -4,7 +4,7 @@ This is targeted at the DBA as we are focusing on the backup and recovery operat
 Since all things in Rubrik are an API call, all tasks that are done in the UI, can be done via a REST API Call. 
 
 ## Table of Contents
-- [Introduction To API Documentation](./01_IntroductionToAPIDocumentation.ipynb)
+- [Introduction To API Documentation](./content/01_IntroductionToAPIDocumentation.ipynb)
 - [Introduction To Swagger API Explorer](./02_IntroductionToSwaggerAPIExplorer.ipynb)
 - [Demo Chrome Developer Tools](./03_DemoChromeDeveloperTools.ipynb)
 - [Introduction To Rubrik SDK](./04_IntroductionToRubrikSDK.ipynb)
