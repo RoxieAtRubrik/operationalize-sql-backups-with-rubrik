@@ -26,3 +26,11 @@
   url: 12_DatabaseMigrationCutover
 - title: Additional Resources
   url: 99_AdditionalResources
+- title: Using Managed Volumes
+  url: /Using Managed Volumes/UsingManagedVolumes
+  sections:
+    - title: Legacy Managed Volumes
+      url: /Using Managed Volumes/01_LegacyManagedVolumes
+- title: Availability Groups
+  url: /Availability Groups/AvailabilityGroups
+  sections: []
